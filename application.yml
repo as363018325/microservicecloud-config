@@ -2,4 +2,8 @@ spring:
   profiles: dev  #开发环境
   application:
     name: microservicecloud-config-zkl-dev
-
+---
+spring:
+  profiles: tet #测试环境
+  application:
+    name: microservicecloud-config-zkl-test
