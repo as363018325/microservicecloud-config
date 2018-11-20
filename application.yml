@@ -7,8 +7,3 @@ spring:
   application:
     name: microservicecloud-config-zkl-dev
 
-spring:
-  profiles: test #测试环境
-    application:
-      name: microservicecloud-config-zkl-test
-# 请保存为UTF-8格式
